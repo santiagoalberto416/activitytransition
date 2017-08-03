@@ -1,0 +1,3 @@
+[submodule "uilibraryt5"]
+	path = uilibraryt5
+	url = ssh://git@bitbucket.greatcall.com:7999/arkus/uilibraryt5.git
