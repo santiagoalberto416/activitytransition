@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ActivityTransition</string>
+    <string name="blue_name">blues</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="bar">bar</string>
+    <!-- options call history -->
+
+    <string name="callback">Call Back</string>
+    <string name="textMessage">Text Message</string>
+    <string name="addNewPerson">Add as New Person</string>
+    <string name="addToExisting">Add to Existing Person</string>
+    <string name="blockThisNumber">Block this Number</string>
+    <string name="deleteFromHistory">Delete from history</string>
+
+
+</resources>

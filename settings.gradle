@@ -1,0 +1,1 @@
+include ':app', ':logging', ':uilibraryt5', ':fastscroll'

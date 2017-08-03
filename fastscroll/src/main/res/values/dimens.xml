@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="thumb_width">25dp</dimen>
+  <dimen name="thumb_height">30dp</dimen>
+  <dimen name="font_size_popup">44sp</dimen>
+</resources>
